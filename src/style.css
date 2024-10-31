@@ -23,16 +23,16 @@
 }
 
 img {
-    height: 300px;
+    height: 290px;
     border-radius: 10px;
-    margin-bottom: 20px;
+    margin-bottom: 23px;
 }
 
 h1 {
     font-size: 21px;
     text-align: center;
     color: hsl(218, 44%, 22%);
-    margin-bottom: 13px;
+    margin-bottom: 20px;
     font-weight: 700;
 }
 
